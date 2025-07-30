@@ -16,14 +16,14 @@ Network label: 1-DMN 2-FPN 3-SMN 4-AN 5-VN 6-BSN 7-CBN
 # WM_parcellation_demo
 The '01_code' file includes the subfunctions of parcellation procedure and the required tools packages.
 
-The '02_data' file includes the example data from three subjects and the required files related to the White Matter mask.
+The '02_data' file includes the example data from three subjects and the required files related to the white matter mask.
 
 There are four steps to generate the final group-level white matter atlas.
 
 Step1: The inputs are the six imaging features (ALFF, dALFF, ReHo, DC, FA, MD in nifti format) for each subject, the output is the individual similarity matrix W in sparse form (in the 'sub_0X' folder).
 
-Step2: The input is the individual similarity matrix W, the output is the individual level WM atlas with k ROIs in nifti format (in the 'sub_0X' folder).
+Step2: The input is the individual similarity matrix W, the output is the individual level white matter atlas with k ROIs in nifti format (in the 'sub_0X' folder).
 
-Step3: The input is the individual WM atlas, the ouput is the group average adjacent matrix A_group (in the '02_data' folder).
+Step3: The input is the individual white matter atlas, the ouput is the group average adjacent matrix A_group (in the '02_data' folder).
 
-Step4: The input is the group average adjacent matrix A_group, the output is the group-level atlas with k ROIs in nifti format (in the '02_data' folder).
+Step4: The input is the group average adjacent matrix A_group, the output is the group-level white matter atlas with k ROIs in nifti format (in the '02_data' folder).
