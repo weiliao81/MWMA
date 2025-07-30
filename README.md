@@ -3,6 +3,8 @@ Multimodal, Multifaceted, Imaging-based Human Brain White Matter Atlas
 
 Welcome to the MWMA package; a companion to our article "Multimodal, Multifaceted, Imaging-based Human Brain White Matter Atlas".
 
+Preprint paper link: https://www.biorxiv.org/content/10.1101/2024.11.24.625092v1
+
 # Software dependencies
 MATLAB (tested on R2020a - https://www.mathworks.com/products/matlab.html)
 
