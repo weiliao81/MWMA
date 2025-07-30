@@ -11,6 +11,8 @@ The 50, 100, 150, 200, 250, 300, 350, 400-ROI MWMA and the white matter mask in 
 
 The functional network label file and the ITKSNAP-description file of the MWMAs at all resolutions are provided.
 
+Network label: 1-DMN 2-FPN 3-SMN 4-AN 5-VN 6-BSN 7-CBN
+
 # WM_parcellation_demo
 The '01_code' file includes the subfunctions of parcellation procedure and the required tools packages.
 
