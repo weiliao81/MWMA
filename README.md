@@ -1,7 +1,7 @@
 # MWMA
 Multimodal, Multifaceted White Matter Atlas
 
-Welcome to the MWMA package; a companion to our article "Multimodal, multifaceted imaging-based Human Brain White Matter Atlas".
+Welcome to the MWMA package; a companion to our article "Multimodal, Multifaceted, Imaging-based Human Brain White Matter Atlas".
 
 # Software dependencies
 MATLAB (tested on R2020a - https://www.mathworks.com/products/matlab.html)
@@ -9,7 +9,7 @@ MATLAB (tested on R2020a - https://www.mathworks.com/products/matlab.html)
 # MWMA-50-400_atlas
 The 50, 100, 150, 200, 250, 300, 350, 400-ROI MWMA and the white matter mask in nifti format are provided.
 
-The functional network label file and the ITKSNAP-description file of the 200-ROI MWMA are provided.
+The functional network label file and the ITKSNAP-description file of the MWMAs at all resolutions are provided.
 
 # WM_parcellation_demo
 The '01_code' file includes the subfunctions of parcellation procedure and the required tools packages.
